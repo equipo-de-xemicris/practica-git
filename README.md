@@ -2,7 +2,7 @@
 
 Este proyecto es una práctica del manejo de Git/GitHub
 
-Cambios nuevos desde Git
+Cambios nuevos desde GitHub
 
 
 ## Notas
