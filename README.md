@@ -5,4 +5,4 @@ Este proyecto es una práctica del manejo de Git/GitHub
 
 ## Notas
 ### Actualizado desde GitHub
-Mensaje editado desde GitHub
+Mensaje editado desde GitHub 2
